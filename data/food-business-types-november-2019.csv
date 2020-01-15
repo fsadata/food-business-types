@@ -1,0 +1,73 @@
+FBOFacingName,FBOText,MatchWithLAEMSData
+Fruit and vegetable farm,Fruit and vegetable farms grow and distribute fruit or vegetables.,Primary production
+Livestock farm,Livestock farms raise animals and sell them at auction or take them to abattoirs,Primary production
+Arable farm,Arable farms grow and harvest crops,Primary production
+Beekeeper,Beekeepers keep bees in hives and extract honey from them.,Primary production
+Honey maker,Honey makers extract and package honey for national retail.,Manufacturer and packer
+Hunter and trapper,Hunters and trappers hunt and trap wild animals for food.,Primary production
+Egg processor,Egg processors manufacture or process egg products that are distributed nationally.,Manufacturer and packer
+Egg producer or packer,Egg producers or packers have birds for egg laying and distributes eggs locally.,Primary production
+Fishing boat,Fishing boats fish and catch seafood for food.,Primary production
+Fish farm,Fish farms raise fish and other species in water for food.,Primary production
+Meat product manufacturer,Meat product manufacturers produce preserved meats or meat based products. For example sausages or freeze meat.,Manufacturer and packer
+Abattoir,,Manufacturer and packer
+Fish and shellfish product manufacturer,"Fish and shellfish product manufacturers process seafood, for example freeze it or make fish fingers",Manufacturer and packer
+Shellfish purification centre,Shellfish purification centres treat seafood to remove impurities and contaminants.,Manufacturer and packer
+Potato product manufacturer,"Potato product manufacturers process potatoes, for example cuts and freeze it or make crisps",Manufacturer and packer
+Fruit and vegetable juice manufacturer,"Fruit and vegetable juice manufacturers make drinks from fruit and vegetable, for example juice or smoothies",Manufacturer and packer
+Fruit and vegetable product manufacturer,"Fruit and vegetable product manufacturers process fruit or vegetables, for example tinned fruit, bags of salad leafs or make vegan products.",Manufacturer and packer
+Oil and/or fat manufacturer,"Oil and/or fat manufacturers process vegetable oil or animal fat to produce products, for example olive oil or lard",Manufacturer and packer
+Dairy and cheese manufacturer,Dairy or cheese manufacturers make products such as yoghurt or cheddar cheese.,Manufacturer and packer
+Ice cream manufacturer,Ice cream manufacturers make products such as ice cream or gelato,Manufacturer and packer
+Commercial Bakery,"Commercial bakeries make products such bread, cookies, cakes and pastries and distributes them nationally. They have no on-site shop. ",Manufacturer and packer
+Ready to eat meals or food manufacturer,"Ready to eat meals manufacturers process different products to make food that is generally ready to eat for the consumer. Processes include for example canning, cooking, chilling or freezing.",Manufacturer and packer
+Dietic or baby food manufacturer,"Dietetic or baby food manufacturers makes food that is either specific to a certain diet, for example gluten free foods, or food that is blended smooth, for example baby food or protein drinks",Manufacturer and packer
+Manufacturer of other food products,"Manufacturer of other food products make products such as coffee, infant formula, mayonnaise or uncooked pizza. If you couldn't find any other fitting manufacturer type on the previous page, this is the best selection for you. ",Manufacturer and packer
+Alcoholic drinks manufacturer,"Alcoholic drinks manufacturers makes drinks containing alcohol. For example beer, gin or wine.",Manufacturer and packer
+Non alcoholic drinks manufacturer,"Non alcoholic drinks manufacturers makes drinks containing no alcohol. For example lemonade, milkshakes or energy drinks.",Manufacturer and packer
+Mineral water packer,"Mineral water packers bottle still or sparkling water, and supply other businesses",Manufacturer and packer
+Contract packer,"Contract packers package food on behalf of someone else and are not involved in processing food. Methods of packing include for example canning, bottling or wrapping. ",Manufacturer and packer
+Food delivery service,Food delivery services transports the food from a business to the end consumer. They do not make food themselves.,Distributor/transporter
+Food ordering service,Food ordering services process food orders on behalf of someone else to deliver it. They do not have any physical contact with the food.,Distributor/transporter
+Food storage facility,"Food storage facilities store food. Some may use temperature controlled environments, such as cold stores.",Distributor/transporter
+Food broker,Food brokers arrange transactions between seller and buyer. They take legal but never physical ownership of the food. ,Distributor/transporter
+Wholesaler,"Wholesalers primarily sells food products to other food businesses, and delivers locally or regionally ",Distributor/transporter
+Cash and carry,Cash and carry primarily sells food products to other food businesses. Both local and non-local businesses visit and transport the food themselves. ,Distributor/transporter
+Haulage company,Haulage companies move food products between locations on behalf of customers. ,Distributor/transporter
+Online retailer,Online retailers sell food products via the internet. The products are distributed nationally and are generally not temperature controlled.,Distributor/transporter
+Supermarket,"Supermarkets sell prepackaged food as well as open food, for example bake off bread or delicatessen, to local customers.",Supermarket/hypermarket
+Local convenience store or corner shop,Local convenience stores sell prepackaged food to local customers,Smaller retailer
+Farm gate sales,Farm gate sales sells shelf stable products such as eggs or potatoes on a small scale from the farm.,Smaller retailer
+Farm shop,"Fark shops prepare, cook or handle food and serve it to customers",Restaurant/Caf?/Canteen
+Sweet shop or confectioner,Sweet shops or confectioners retail pre packaged food,Smaller retailer
+Butcher,"Butchers prepare, cook or handle open foods. For example meat pies or sausages, alongside general butchering.",Smaller retailer
+Fishmonger,"Fishmongers prepare, cook or handle open seafoods, such as smoked fish, alongside selling raw seafood",Smaller retailer
+Greengrocer,Greengrocers sell fruit and vegetables as well as other shelf stable products,Smaller retailer
+Health food shop,Health food shops sell low risk foods and other shelf stable food products. For example dried herbs or fruit,Smaller retailer
+Bakery,"Bakeries prepare, cook or handle open food items. For example bread, cookies or cakes",Smaller retailer
+Newsagent or Post Office,Newsagents or Post Offices retail prepackaged food,Smaller retailer
+Market stall with permanent location,Market stalls with a permanent location sell food products from a regular pitch,Smaller retailer
+Off licence,"Off licences sell low risk foods and other shelf stable items. For example drinks, crisps or pre packed bread ",Smaller retailer
+Petrol station or garage,"Petrol stations or garages sell prepackaged food as well as open food, for example bake off bread",Smaller retailer
+Delicatessen,"Delicatessens prepare cook or handle open high risk food, such as hams, cheeses for sandwiches",Smaller retailer
+Chemist,"Chemists retails prepackaged and shelf stable foods, as a part of their regular business.",Retailers - others
+Any other retailer,"Any other retailers retail pre packaged or shelf stable food items. If you couldn't find any other fitting retailer type on the previous page, this is the best selection for you.",Retailers - others
+Vending machine,"Vending machines dispense prepackaged food products. For example sweets, crisps or drinks.",Retailers - others
+"Restaurant, cafe, canteen, or fast food restaurant","Restaurants, cafes, canteens, or fast food restaurants prepare, cook or handle food. For example pizza, soup or pies.",Restaurant/Caf?/Canteen
+Hostel or bed & breakfast,Hostels or Bed and Breakfasts serve cooked or continental breakfasts,Hotel/guest house
+Hotel,"Hotels prepare, cook or handle food and serve it to customers",Hotel/guest house
+Pub serving meals,"Pubs serving meals serve alcoholic drinks to local customers and prepare, cook or handle food to be eaten on site",Pub/club
+Pub serving only snacks and drinks,Pubs serving only snacks and drinks serve no cooked food,Pub/club
+Take away with no food consumed on site ,"Takeaways with no food consumed on site prepare, cook or handle food and serve customers that come and pick up food to eat off-site",Take-away
+"Nursing home, care home or day centre","Nursing homes, care homes or day centres prepare, cook or handle food and serve meals to their customers. These customers are considered vulnerable, for example elderly, children or the ill. ",Caring establishments
+Hospital,"Hospitals cook or handle food and serve meals to patients. These patients are vulnerable, for example the ill. ",Caring establishments
+Childminder,Childminders cook or handle food and serve meals to children under five years,Caring establishments
+"Childcare, nursery or play group","Childcare, nurseries or playgroups prepare, cook or handle and serve food to children under five years",Caring establishments
+Educational establishment,"Educational establishments prepare, cook or handle food and serve their students",School/college
+Mobile retailer,"Mobile retailers handle, but do not cook, pre packed food. For example jams, sandwiches or drinks.",Mobile food unit
+Mobile caterer,"Mobile caterers prepare, cook or handle food, for example pizza, scooped ice cream or pies.",Mobile food unit
+Movable food establishment,"Movable food establishments prepare, cook or handle food on a movable premises, such as trains, boats or airplanes. They serve a substantial number of national or international customer every day.",Restaurants and caterers - Other 
+Contract caterer,"Contract caterers prepare, cook or handle food at events or at a dedicated location, for example a staff canteen.",Restaurant/Caf?/Canteen
+Home caterer,Home caterers cook or prepare food from home,Restaurants and caterers - Other 
+Meat cutting plant or commercial butcher,Meat cutting plants or commercial butchers butcher carcasses for sale to other businesses,Manufacturers & packers 
+Food auction hall,"Food auction halls is an auction hall for the sale of food, such as fish or meat, generally to business customers.",Distributors/ Transporters 
